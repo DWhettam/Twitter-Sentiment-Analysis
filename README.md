@@ -1,5 +1,5 @@
 # Twitter_Sentiment_Analysis
-Live graphing of twitter sentiment analysis
+Live graphing of twitter sentiment analysis. Based on [this](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) tutorial by sentdex
 
 ## Use
 - Run TextClassification.py to generate classifiers (saved as pickle files)
