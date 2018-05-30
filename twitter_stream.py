@@ -38,5 +38,6 @@ auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 
 twitterStream = Stream(auth, listener())
-#Change word here to track sentiment of specified topic
+
+#UPDATE TOPIC HERE
 twitterStream.filter(track=["happy"])
