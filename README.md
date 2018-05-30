@@ -1,5 +1,5 @@
 # Twitter_Sentiment_Analysis
-Live graphing of the sentiment of a given topic on twitter.
+Live graphing of twitter sentiment analysis
 
 ## Use
 - Run TextClassification.py to generate classifiers (saved as pickle files)
